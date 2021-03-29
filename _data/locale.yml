@@ -1,4 +1,26 @@
 # @start locale config
+## => Ukrainian
+########################
+uk: &UK
+  SUBSCRIBE               : "Підписатись"
+  READMORE                : "Читати більше"
+  SEARCH                  : "Пошук"
+  CANCEL                  : "Скасувати"
+  VIEWS                   : "перегляди"
+  LAST_UPDATED            : "Востаннє відредаговане"
+  PREVIOUS                : "ПОПЕРЕДНЄ"
+  NEXT                    : "НАСТУПНЕ"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] постів, [PAGE_COUNT] сторінок."
+  LICENSE_ANNOUNCE        : "This work is licensed under a [LICENSE] license."
+  POST_ON_GITHUB          : "Відредагувати на Github"
+  FOLLOW_ME               : "Слідкуйте за мною як [NAME]."
+  FOLLOW_US               : "Слідкуйте за нами на [NAME]."
+  EMAIL_ME                : "Відправити мені Email."
+  EMAIL_US                : "Відправити нам Email."
+  COPYRIGHT_DATES         : "2020"
+
 ## => English
 ########################
 en: &EN

@@ -3,7 +3,7 @@ layout: article
 titles:
   # @start locale config
   en      : &EN       About
-  uk      : &EN       Опис
+  uk      : &UK       Опис
   # @end locale config
 key: page-about
 ---
