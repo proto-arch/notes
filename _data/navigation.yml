@@ -1,6 +1,7 @@
 header:
   - titles:
       # @start locale config
+      uk      : &UK       Архів
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -26,6 +27,7 @@ header:
 
   - titles:
       # @start locale config
+      uk      : &UK       Про блог
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
