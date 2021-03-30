@@ -5,3 +5,10 @@ lang: uk
 ---
 
 Проба
+
+[source, java]
+----
+public class A {
+
+}
+----
